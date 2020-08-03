@@ -1,0 +1,7 @@
+mov [data] [register]
+mov [register] [register]
+push [data]
+pop [register]
+
+registers: ax, bx, cx, dx
+data types: int
